@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/logo.png" width="88" alt="AISync logo" />
+  <img src="./assets/logo.png" width="88" alt="SkillClub logo" />
 </p>
 
-<h1 align="center">AISync</h1>
+<h1 align="center">SkillClub</h1>
 
 <p align="center"><strong>Your team's AI skill library — manage once, use anywhere.</strong></p>
 
@@ -14,29 +14,29 @@
 </p>
 
 <p align="center">
-  <img src="./assets/og-image.png" alt="AISync — your team's AI skill library" width="100%" />
+  <img src="./assets/og-image.png" alt="SkillClub — your team's AI skill library" width="100%" />
 </p>
 
-## What is AISync
+## What is SkillClub
 
-AISync is a **local-first AI skill manager for teams**. It brings the Agent Skills scattered across Claude Code, Cursor, Codex, ZCode, and other tools into one manageable asset: discover local skills, keep versions and sources consistent, install them into any supported tool or project, and share them with your team.
+SkillClub is a **local-first AI skill manager for teams**. It brings the Agent Skills scattered across Claude Code, Cursor, Codex, ZCode, and other tools into one manageable asset: discover local skills, keep versions and sources consistent, install them into any supported tool or project, and share them with your team.
 
 **Manage once, use anywhere.**
 
 > This repository is the product introduction and entry point. The desktop client and server source code are not public.
 
 <p align="center">
-  <img src="./assets/homepage.png" alt="AISync homepage" width="100%" />
+  <img src="./assets/homepage.png" alt="SkillClub homepage" width="100%" />
 </p>
 
-## Why AISync
+## Why SkillClub
 
 - The same skill lives in Claude Code, Cursor, Codex, and other tools — versions drift.
 - Team members run different versions and share skills through chat.
 - Switching machines or tools means finding and reinstalling everything.
 - It is hard to see which skills exist locally and which version the team is on.
 
-AISync turns this into one flow: **discover → upload → version → install → share**.
+SkillClub turns this into one flow: **discover → upload → version → install → share**.
 
 ## Features
 
@@ -54,7 +54,7 @@ AISync turns this into one flow: **discover → upload → version → install �
 
 ## Supported tools
 
-AISync ships with 24 tool adapters:
+SkillClub ships with 24 tool adapters:
 
 Claude Code, Codex, Gemini CLI, Cursor, Cline, Kilo Code, Qwen Code, Roo Code, OpenCode, Trae, Windsurf, Grok, Kimi, Qoder, CodeBuddy, Augment, Antigravity, OpenClaw, Warp, Hermes, Pi, WorkBuddy, ZCode, DeepSeek Harness.
 
@@ -70,7 +70,7 @@ Available for macOS (Apple silicon and Intel) and Windows x64.
 
 ## How it works
 
-1. **Discover**: AISync scans the skill directories of the tools installed on your machine.
+1. **Discover**: SkillClub scans the skill directories of the tools installed on your machine.
 2. **Upload**: Upload a skill to your personal space as a managed version.
 3. **Share**: Publish it to a team space and invite members.
 4. **Install**: Members install it into their own tools or projects.
@@ -78,7 +78,7 @@ Available for macOS (Apple silicon and Intel) and Windows x64.
 
 ## Team space
 
-![AISync team space](./assets/teams.png)
+![SkillClub team space](./assets/teams.png)
 
 One skill, shared with the whole team:
 
@@ -96,9 +96,9 @@ Local scanning, installing, and organizing do not require an account. Uploading 
 macOS (Apple silicon and Intel) and Windows x64.
 
 **How is this different from copying skills manually?**
-AISync manages versions, sources, and team sharing. Each skill has a history and a clear source space, and members install on demand instead of passing files around in chat.
+SkillClub manages versions, sources, and team sharing. Each skill has a history and a clear source space, and members install on demand instead of passing files around in chat.
 
-**Is AISync open source?**
+**Is SkillClub open source?**
 This repository is the product introduction and entry point. The desktop client and server source code are not public.
 
 ## Links
@@ -112,8 +112,8 @@ This repository is the product introduction and entry point. The desktop client 
 
 Please use [Issues](https://github.com/lixiaojie-m/aisync-app/issues) for questions and suggestions.
 
-If AISync is useful to you, a star is appreciated.
+If SkillClub is useful to you, a star is appreciated.
 
 ## Trademark
 
-The AISync name and logo belong to their respective owner. This repository is for product introduction and documentation only; it does not contain the client or server source code. Do not use the AISync name, logo, or brand assets for commercial purposes without permission.
+The SkillClub name and logo belong to their respective owner. This repository is for product introduction and documentation only; it does not contain the client or server source code. Do not use the SkillClub name, logo, or brand assets for commercial purposes without permission.

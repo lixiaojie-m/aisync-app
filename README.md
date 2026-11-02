@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/logo.png" width="88" alt="AISync logo" />
+  <img src="./assets/logo.png" width="88" alt="SkillClub logo" />
 </p>
 
-<h1 align="center">AISync</h1>
+<h1 align="center">SkillClub</h1>
 
 <p align="center"><strong>团队的 AI 技能库 · 一处管理，随处可用</strong></p>
 
@@ -20,29 +20,29 @@
 </p>
 
 <p align="center">
-  <img src="./assets/og-image.png" alt="AISync — 团队的 AI 技能库，一处管理，随处可用" width="100%" />
+  <img src="./assets/og-image.png" alt="SkillClub — 团队的 AI 技能库，一处管理，随处可用" width="100%" />
 </p>
 
-## AISync 是什么
+## SkillClub 是什么
 
-AISync 是一个**本地优先的团队 AI 技能库**：把散落在 Claude Code、Cursor、Codex、ZCode 等工具里的 Agent Skills 收拢成一份可管理的资产——发现本机技能、统一版本与来源、按需安装到任意工具或项目，并共享给团队成员。
+SkillClub 是一个**本地优先的团队 AI 技能库**：把散落在 Claude Code、Cursor、Codex、ZCode 等工具里的 Agent Skills 收拢成一份可管理的资产——发现本机技能、统一版本与来源、按需安装到任意工具或项目，并共享给团队成员。
 
 一句话：**一处管理，随处可用。**
 
-> 这个仓库是 AISync 的产品介绍与入口，不包含客户端或服务端源码。
+> 这个仓库是 SkillClub 的产品介绍与入口，不包含客户端或服务端源码。
 
 <p align="center">
-  <img src="./assets/homepage.png" alt="AISync 首页：一处管理，随处可用" width="100%" />
+  <img src="./assets/homepage.png" alt="SkillClub 首页：一处管理，随处可用" width="100%" />
 </p>
 
-## 为什么需要 AISync
+## 为什么需要 SkillClub
 
 - 同一个 Skill 在 Claude Code、Cursor、Codex 里各存一份，改了一处忘了另一处
 - 团队成员的技能版本不一致，交接靠聊天窗口发文件
 - 换电脑、换工具后，技能要重新找、重新装
 - 很难看清本机到底有哪些技能、哪个是团队最新版
 
-AISync 把这条链路收拢成：**发现 → 上传 → 管理版本 → 安装 → 共享**。
+SkillClub 把这条链路收拢成：**发现 → 上传 → 管理版本 → 安装 → 共享**。
 
 ## 核心能力
 
@@ -60,7 +60,7 @@ AISync 把这条链路收拢成：**发现 → 上传 → 管理版本 → 安�
 
 ## 支持的 AI 编程工具
 
-AISync 内置 24 个工具适配器：
+SkillClub 内置 24 个工具适配器：
 
 Claude Code、Codex、Gemini CLI、Cursor、Cline、Kilo Code、Qwen Code、Roo Code、OpenCode、Trae、Windsurf、Grok、Kimi、Qoder、CodeBuddy、Augment、Antigravity、OpenClaw、Warp、Hermes、Pi、WorkBuddy、ZCode、DeepSeek Harness。
 
@@ -76,7 +76,7 @@ Claude Code、Codex、Gemini CLI、Cursor、Cline、Kilo Code、Qwen Code、Roo 
 
 ## 它是怎么工作的
 
-1. **发现**：打开 AISync，自动扫描本机已安装工具的技能目录
+1. **发现**：打开 SkillClub，自动扫描本机已安装工具的技能目录
 2. **上传**：把技能上传到个人空间，形成可管理版本
 3. **共享**：把技能发布到团队空间，邀请成员加入
 4. **安装**：成员在自己的工具或项目里一键安装
@@ -84,7 +84,7 @@ Claude Code、Codex、Gemini CLI、Cursor、Cline、Kilo Code、Qwen Code、Roo 
 
 ## 团队空间
 
-![AISync 团队空间](./assets/teams.png)
+![SkillClub 团队空间](./assets/teams.png)
 
 团队空间解决的是“同一份技能怎么让所有人用上”：
 
@@ -95,7 +95,7 @@ Claude Code、Codex、Gemini CLI、Cursor、Cline、Kilo Code、Qwen Code、Roo 
 
 ## 常见问题
 
-**AISync 需要登录吗？**
+**SkillClub 需要登录吗？**
 
 本地扫描、安装和整理不需要登录；上传、发布到团队空间等云端动作需要登录。
 
@@ -105,9 +105,9 @@ macOS（Apple 芯片与 Intel）和 Windows x64。
 
 **和手动拷贝 skills 有什么区别？**
 
-AISync 管的是版本、来源和团队共享：一份技能有历史版本、有明确的来源空间，成员按需安装，不用在聊天窗口来回发文件。
+SkillClub 管的是版本、来源和团队共享：一份技能有历史版本、有明确的来源空间，成员按需安装，不用在聊天窗口来回发文件。
 
-**AISync 开源吗？**
+**SkillClub 开源吗？**
 
 这个仓库是产品介绍与入口，客户端与服务端源码暂未公开。
 
@@ -126,8 +126,8 @@ Skill 是 AI 编程工具可以读取的一组指令和资源，通常以 `SKILL
 
 欢迎在 [Issues](https://github.com/lixiaojie-m/aisync-app/issues) 里反馈问题或建议。
 
-如果 AISync 对你有帮助，欢迎 Star 这个仓库。
+如果 SkillClub 对你有帮助，欢迎 Star 这个仓库。
 
 ## 版权与商标
 
-AISync 名称与 Logo 归广州求职猫科技有限公司所有。本仓库用于产品介绍与文档，不包含客户端或服务端源码；未经许可，请勿将 AISync 名称、Logo 或品牌素材用于商业用途。
+SkillClub 名称与 Logo 归广州求职猫科技有限公司所有。本仓库用于产品介绍与文档，不包含客户端或服务端源码；未经许可，请勿将 SkillClub 名称、Logo 或品牌素材用于商业用途。
